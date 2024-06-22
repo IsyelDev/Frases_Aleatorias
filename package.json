@@ -1,0 +1,17 @@
+{
+  "name": "frases_aleatorias",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "  https://github.com/IsyelDev/Frases_Aleatorias.git",
+  "bin": {
+    "oraciones-al_azar": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
