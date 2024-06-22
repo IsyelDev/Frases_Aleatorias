@@ -13,5 +13,8 @@
   "bin": {
     "oraciones-al_azar": "./bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
 }
